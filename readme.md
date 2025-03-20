@@ -1,9 +1,8 @@
-
 # Sandbox
 
 Repository of random code that doesn't have a better home.
 
-## What's what
+## What's in here?
 ```
 📂 sandbox
 ├── 📂 books               Code written while following along with a book
@@ -64,13 +63,21 @@ Repository of random code that doesn't have a better home.
 
 <div align="center">
 
-![](https://leetcard.jacoblin.cool/Snxwman?theme=unicorn&font=Sora)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Snxwman?ext=activity&theme=dark&font=Sora)
 
-Solutions are in Rust or Python.
-
-Slowly working my way through the [Neetcode 150](https://neetcode.io/roadmap) problem list.
+| Language | Total | Easy | Medium | Hard |
+| -------- | :---: | :--: | :----: | :--: |
+| Rust     | 18    | 10   | 7      | 1    |
+| Python   | 13    | 6    | 7      | 0    |
+| SQL      | 5     | 5    | 0      | 0    |
 
 </div>
+
+Currently working on completing the [Neetcode 150](https://neetcode.io/roadmap) problem list and doing the daily problems.
+
+I solve problems from my local Neovim install using the [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) plugin.
+
+The Leetcode stats card comes from [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card).
 
 ---
 
