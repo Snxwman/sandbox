@@ -67,8 +67,8 @@ Repository of random code that doesn't have a better home.
 
 | Language | Total | Easy | Medium | Hard |
 | -------- | :---: | :--: | :----: | :--: |
+| Python   | 19    | 9    | 9      | 1    |
 | Rust     | 18    | 10   | 7      | 1    |
-| Python   | 14    | 6    | 7      | 1    |
 | SQL      | 5     | 5    | 0      | 0    |
 
 </div>
