@@ -67,13 +67,17 @@ Repository of random code that doesn't have a better home.
 
 | Language | Total | Easy | Medium | Hard |
 | -------- | :---: | :--: | :----: | :--: |
-| Python   | 19    | 9    | 9      | 1    |
+| Python   | 29    | 13   | 15     | 1    |
 | Rust     | 18    | 10   | 7      | 1    |
 | SQL      | 5     | 5    | 0      | 0    |
 
 </div>
 
-Currently working on completing the [Neetcode 150](https://neetcode.io/roadmap) problem list and doing the daily problems.
+Working on problem sets:
+- [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
+- [Neetcode 150](https://neetcode.io/roadmap)
+- Daily problems
+- [SQL 50](https://leetcode.com/studyplan/top-sql-50)
 
 I solve problems from my local Neovim install using the [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) plugin.
 
